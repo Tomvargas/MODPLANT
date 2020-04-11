@@ -11,6 +11,7 @@ La interfaz lee los datos desde la base de datos y los muestra en graficos. Cuan
 * Estadisticas
 * Comparación de valores
 * Datos en tiempo real
+
 ## Sensores del módulo
 * Sensor de Ph
 * Sensor de Temperaura
