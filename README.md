@@ -2,7 +2,7 @@
 
 Este software mide los parámetros en los cultivos del arroz, se conecta por medio de un módulo el cual está ensamblado con sensores a travez de arduino. El módulo guarda los parámetros leidos en una base de datos por medio de un script.
 
-La interfaz lee los datos desde la base de datos y los muestra en gráficos. Cuando se requiere leer los datos en tiempo real se llama una funcion que recoge la información directamente desde el módulo y los muestra en pantalla.
+La interfaz lee la información desde la base de datos y los muestra en gráficos. Cuando se requiere leer los datos en tiempo real se llama una funcion que recoge los parámetros directamente desde el módulo y los muestra en pantalla.
 
 
 <image align="right" src="screenshots/principal%20menu.png" alt="Principal menu"></image>
